@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Forbidden Paradise",
+  "base_artist": "シーズ",
+  "createdAt": "2026-01-14T05:41:57.147175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forbidden Paradise",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/01_Forbidden_Paradise_シーズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forbidden Paradise (Off Vocal)",
+      "artist": "SHHis",
+      "has_synced": false,
+      "path": "select/02_Forbidden_Paradise_(Off_Vocal)_SHHis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forbidden Paradise",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Forbidden_Paradise_シーズ.txt"
+    }
+  ]
+}
